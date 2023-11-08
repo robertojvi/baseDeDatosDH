@@ -1,0 +1,2868 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<Controls>
+		<Table1>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="13"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table1"/>
+				<position value="923;1078"/>
+				<size value="175;150"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table1>
+		<Table10>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="4"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table10"/>
+				<position value="958;1310"/>
+				<size value="161;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table10>
+		<Table11>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="3"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table11"/>
+				<position value="336;1304"/>
+				<size value="177;170"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table11>
+		<Table12>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="2"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table12"/>
+				<position value="1267;790"/>
+				<size value="167;150"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table12>
+		<Table13>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="1"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table13"/>
+				<position value="944;937"/>
+				<size value="126;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table13>
+		<Table2>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="12"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table2"/>
+				<position value="627;989"/>
+				<size value="179;210"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table2>
+		<Table3>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="11"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table3"/>
+				<position value="362;895"/>
+				<size value="157;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table3>
+		<Table4>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="10"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table4"/>
+				<position value="336;1162"/>
+				<size value="138;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table4>
+		<Table5>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="9"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table5"/>
+				<position value="836;607"/>
+				<size value="200;230"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table5>
+		<Table6>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="8"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table6"/>
+				<position value="1259;625"/>
+				<size value="137;110"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table6>
+		<Table7>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="7"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table7"/>
+				<position value="1259;1125"/>
+				<size value="194;250"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table7>
+		<Table8>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="6"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table8"/>
+				<position value="362;687"/>
+				<size value="157;150"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table8>
+		<Table9>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="5"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="#b4d647"/>
+				<name value="Table9"/>
+				<position value="373;1506"/>
+				<size value="146;170"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table9>
+		<descubierto>
+			<Properties>
+				<^lock value="0"/>
+				<back_color value="FFFFFF"/>
+				<font value=""/>
+				<gamma value="0"/>
+				<name value="descubierto"/>
+				<size value="1680;2376"/>
+				<style value="4"/>
+				<style_links value="0"/>
+				<units value="5"/>
+			</Properties>
+			<Type value="Diagram"/>
+		</descubierto>
+	</Controls>
+	<GUI>
+		<FullToolbarLeft value="1"/>
+		<FullToolbarRight value="1"/>
+		<HiddenLinks value=""/>
+		<PageEditor value="-1"/>
+		<PageEditorHRel value="0.000000"/>
+		<PageToolbarLeft value="0"/>
+		<PageToolbarRB value="0"/>
+		<PageToolbarRight value="0"/>
+		<ScrollX value="299"/>
+		<ScrollY value="1087"/>
+		<Selection value="VGFibGU3"/>
+		<ShowAll value="1"/>
+		<ShowChanges value="1"/>
+		<ShowGL value="1"/>
+		<ShowGrid value="1"/>
+		<UseGrid value="0"/>
+	</GUI>
+	<Model>
+		<el_descubierto>
+			<Links>
+				<o0>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cliente"/>
+						<Foreign_Key value="ciudad_id"/>
+						<Name value="fk_cliente_ciudad1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="ciudad"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cliente_ciudad1"/>
+				</o0>
+				<o1>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cliente_x_cuenta"/>
+						<Foreign_Key value="cliente_id"/>
+						<Name value="fk_cliente_has_cuenta_cliente1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="cliente"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cliente_has_cuenta_cliente1"/>
+				</o1>
+				<o10>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cliente_x_prestamo"/>
+						<Foreign_Key value="prestamo_id"/>
+						<Name value="fk_cliente_has_prestamo_prestamo1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="prestamo"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cliente_has_prestamo_prestamo1"/>
+				</o10>
+				<o11>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="pago"/>
+						<Foreign_Key value="prestamo_id"/>
+						<Name value="fk_pago_prestamo1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="prestamo"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_pago_prestamo1"/>
+				</o11>
+				<o12>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cuenta"/>
+						<Foreign_Key value="sucursal_numero"/>
+						<Name value="fk_cuenta_sucursal1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="sucursal"/>
+						<Primary_Key value="numero"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cuenta_sucursal1"/>
+				</o12>
+				<o13>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="empleado"/>
+						<Foreign_Key value="sucursal_numero"/>
+						<Name value="fk_empleado_sucursal1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="sucursal"/>
+						<Primary_Key value="numero"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_empleado_sucursal1"/>
+				</o13>
+				<o14>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="prestamo"/>
+						<Foreign_Key value="sucursal_numero"/>
+						<Name value="fk_prestamo_sucursal1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="sucursal"/>
+						<Primary_Key value="numero"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_prestamo_sucursal1"/>
+				</o14>
+				<o15>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="sucursal"/>
+						<Foreign_Key value="Ciudad_id"/>
+						<Name value="fk_Sucursales_Ciudad1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="ciudad"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_Sucursales_Ciudad1"/>
+				</o15>
+				<o16>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cuenta"/>
+						<Foreign_Key value="tipo_interes_id"/>
+						<Name value="fk_cuenta_tipo_interes1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="tipo_interes"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cuenta_tipo_interes1"/>
+				</o16>
+				<o2>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cliente_x_prestamo"/>
+						<Foreign_Key value="cliente_id"/>
+						<Name value="fk_cliente_has_prestamo_cliente1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="cliente"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cliente_has_prestamo_cliente1"/>
+				</o2>
+				<o3>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cliente_x_cuenta"/>
+						<Foreign_Key value="cuenta_numero"/>
+						<Name value="fk_cliente_has_cuenta_cuenta1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="cuenta"/>
+						<Primary_Key value="numero"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cliente_has_cuenta_cuenta1"/>
+				</o3>
+				<o4>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cuenta"/>
+						<Foreign_Key value="cuenta_tipo_id"/>
+						<Name value="fk_cuenta_cuenta_tipo1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="cuenta_tipo"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cuenta_cuenta_tipo1"/>
+				</o4>
+				<o5>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="cuenta"/>
+						<Foreign_Key value="ejecutivo_cuenta"/>
+						<Name value="fk_cuenta_empleado1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="empleado"/>
+						<Primary_Key value="legajo"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cuenta_empleado1"/>
+				</o5>
+				<o6>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="empleado"/>
+						<Foreign_Key value="ciudad_id"/>
+						<Name value="fk_empleado_ciudad1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="ciudad"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_empleado_ciudad1"/>
+				</o6>
+				<o7>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="historial_acceso"/>
+						<Foreign_Key value="cliente_id"/>
+						<Name value="fk_cliente_has_cuenta_cliente2"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="cliente"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cliente_has_cuenta_cliente2"/>
+				</o7>
+				<o8>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="historial_acceso"/>
+						<Foreign_Key value="cuenta_numero"/>
+						<Name value="fk_cliente_has_cuenta_cuenta2"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="cuenta"/>
+						<Primary_Key value="numero"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_cliente_has_cuenta_cuenta2"/>
+				</o8>
+				<o9>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="ciudad"/>
+						<Foreign_Key value="pais_id"/>
+						<Name value="fk_ciudad_pais1"/>
+						<On_Delete value="No Action"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="pais"/>
+						<Primary_Key value="id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="fk_ciudad_pais1"/>
+				</o9>
+			</Links>
+			<Tables>
+				<o0>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Length value="50"/>
+								<Name value="nombre"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="nombre"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Length value="10"/>
+								<Name value="codigo_postal"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Char"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="codigo_postal"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="pais_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="pais_id"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="pais_id"/>
+								<Name value="fk_ciudad_pais1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_ciudad_pais1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="52"/>
+						<Average_Row_Size value="1170"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:33"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="4"/>
+						<Index_Count value="2"/>
+						<Link_Count value="4"/>
+						<Name value="ciudad"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="50"/>
+						<Size value="32768"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:33"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table1"/>
+					<delete value="0"/>
+					<name value="ciudad"/>
+				</o0>
+				<o1>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Length value="25"/>
+								<Name value="apellido"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="apellido"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Length value="25"/>
+								<Name value="nombre"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="nombre"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Length value="70"/>
+								<Name value="domicilio"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="domicilio"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="5"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="ciudad_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ciudad_id"/>
+						</o4>
+						<o5>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="6"/>
+								<Indexed value="0"/>
+								<Length value="50"/>
+								<Name value="email"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="email"/>
+						</o5>
+						<o6>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="7"/>
+								<Indexed value="0"/>
+								<Length value="15"/>
+								<Name value="telefono_movil"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Char"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="telefono_movil"/>
+						</o6>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="ciudad_id"/>
+								<Name value="fk_cliente_ciudad1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cliente_ciudad1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="46"/>
+						<Average_Row_Size value="364"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:33"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="7"/>
+						<Index_Count value="2"/>
+						<Link_Count value="4"/>
+						<Name value="cliente"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="45"/>
+						<Size value="32768"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table2"/>
+					<delete value="0"/>
+					<name value="cliente"/>
+				</o1>
+				<o10>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="sucursal_numero"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="sucursal_numero"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Length value="-1"/>
+								<Name value="fecha_otorgado"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Date"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fecha_otorgado"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value="0.00"/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Length value="0"/>
+								<Name value="importe"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Precision value="15"/>
+								<Scale value="2"/>
+								<Type value="Float"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="importe"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="5"/>
+								<Indexed value="0"/>
+								<Length value="2"/>
+								<Name value="cantidad_cuota"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Char"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cantidad_cuota"/>
+						</o4>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="sucursal_numero"/>
+								<Name value="fk_prestamo_sucursal1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_prestamo_sucursal1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="48"/>
+						<Average_Row_Size value="348"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="5"/>
+						<Index_Count value="2"/>
+						<Link_Count value="3"/>
+						<Name value="prestamo"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="47"/>
+						<Size value="32768"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table11"/>
+					<delete value="0"/>
+					<name value="prestamo"/>
+				</o10>
+				<o11>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="numero"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="numero"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="Ciudad_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Ciudad_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Length value="70"/>
+								<Name value="domicilio"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="domicilio"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Length value="15"/>
+								<Name value="telefono_fijo"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Char"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="telefono_fijo"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="Ciudad_id"/>
+								<Name value="fk_Sucursales_Ciudad1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_Sucursales_Ciudad1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="numero"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="23"/>
+						<Average_Row_Size value="0"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="4"/>
+						<Index_Count value="2"/>
+						<Link_Count value="4"/>
+						<Name value="sucursal"/>
+						<Primary_Key value="numero"/>
+						<Record_Count value="22"/>
+						<Size value="32768"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="numero"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table12"/>
+					<delete value="0"/>
+					<name value="sucursal"/>
+				</o11>
+				<o12>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_general_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Length value="16"/>
+								<Name value="tipo"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Char"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="tipo"/>
+						</o1>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="0"/>
+						<Average_Row_Size value="0"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_general_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="2"/>
+						<Index_Count value="1"/>
+						<Link_Count value="1"/>
+						<Name value="tipo_interes"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="3"/>
+						<Size value="16384"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table13"/>
+					<delete value="0"/>
+					<name value="tipo_interes"/>
+				</o12>
+				<o2>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="cliente_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cliente_id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="cuenta_numero"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cuenta_numero"/>
+						</o1>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cliente_id"/>
+								<Name value="fk_cliente_has_cuenta_cliente1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cliente_has_cuenta_cliente1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cuenta_numero"/>
+								<Name value="fk_cliente_has_cuenta_cuenta1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cliente_has_cuenta_cuenta1_idx"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cliente_id
+cuenta_numero"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o2>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="0"/>
+						<Average_Row_Size value="256"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="2"/>
+						<Index_Count value="3"/>
+						<Link_Count value="2"/>
+						<Name value="cliente_x_cuenta"/>
+						<Primary_Key value="cliente_id
+cuenta_numero"/>
+						<Record_Count value="64"/>
+						<Size value="49152"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="cliente_id
+cuenta_numero"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table3"/>
+					<delete value="0"/>
+					<name value="cliente_x_cuenta"/>
+				</o2>
+				<o3>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="cliente_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cliente_id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="prestamo_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="prestamo_id"/>
+						</o1>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cliente_id"/>
+								<Name value="fk_cliente_has_prestamo_cliente1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cliente_has_prestamo_cliente1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="prestamo_id"/>
+								<Name value="fk_cliente_has_prestamo_prestamo1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cliente_has_prestamo_prestamo1_idx"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cliente_id
+prestamo_id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o2>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="0"/>
+						<Average_Row_Size value="334"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="2"/>
+						<Index_Count value="3"/>
+						<Link_Count value="2"/>
+						<Name value="cliente_x_prestamo"/>
+						<Primary_Key value="cliente_id
+prestamo_id"/>
+						<Record_Count value="49"/>
+						<Size value="49152"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="cliente_id
+prestamo_id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table4"/>
+					<delete value="0"/>
+					<name value="cliente_x_prestamo"/>
+				</o3>
+				<o4>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="numero"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="numero"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="sucursal_numero"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="sucursal_numero"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="cuenta_tipo_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cuenta_tipo_id"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value="0.00"/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Length value="0"/>
+								<Name value="saldo"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Precision value="15"/>
+								<Scale value="2"/>
+								<Type value="Float"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="saldo"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value="NULL"/>
+								<Field_Position value="5"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="tipo_interes_id"/>
+								<Nullable value="1"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="tipo_interes_id"/>
+						</o4>
+						<o5>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value="0.00"/>
+								<Field_Position value="6"/>
+								<Indexed value="0"/>
+								<Length value="0"/>
+								<Name value="descubierto_otorgado"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Precision value="15"/>
+								<Scale value="2"/>
+								<Type value="Float"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="descubierto_otorgado"/>
+						</o5>
+						<o6>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value="0"/>
+								<Field_Position value="7"/>
+								<Indexed value="0"/>
+								<Length value="0"/>
+								<Name value="activa"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="TinyInt"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="activa"/>
+						</o6>
+						<o7>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value="NULL"/>
+								<Field_Position value="8"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="ejecutivo_cuenta"/>
+								<Nullable value="1"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ejecutivo_cuenta"/>
+						</o7>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cuenta_tipo_id"/>
+								<Name value="fk_cuenta_cuenta_tipo1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cuenta_cuenta_tipo1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="ejecutivo_cuenta"/>
+								<Name value="fk_cuenta_empleado1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cuenta_empleado1_idx"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="sucursal_numero"/>
+								<Name value="fk_cuenta_sucursal1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cuenta_sucursal1_idx"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="tipo_interes_id"/>
+								<Name value="fk_cuenta_tipo_interes1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cuenta_tipo_interes1_idx"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="numero"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o4>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="10562"/>
+						<Average_Row_Size value="268"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="8"/>
+						<Index_Count value="5"/>
+						<Link_Count value="6"/>
+						<Name value="cuenta"/>
+						<Primary_Key value="numero"/>
+						<Record_Count value="61"/>
+						<Size value="81920"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="numero"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table5"/>
+					<delete value="0"/>
+					<name value="cuenta"/>
+				</o4>
+				<o5>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_general_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Length value="20"/>
+								<Name value="tipo"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="tipo"/>
+						</o1>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="3"/>
+						<Average_Row_Size value="8192"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_general_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="2"/>
+						<Index_Count value="1"/>
+						<Link_Count value="1"/>
+						<Name value="cuenta_tipo"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="2"/>
+						<Size value="16384"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table6"/>
+					<delete value="0"/>
+					<name value="cuenta_tipo"/>
+				</o5>
+				<o6>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="legajo"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="legajo"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="sucursal_numero"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="sucursal_numero"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Length value="25"/>
+								<Name value="apellido"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="apellido"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Length value="25"/>
+								<Name value="nombre"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="nombre"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="5"/>
+								<Indexed value="0"/>
+								<Length value="70"/>
+								<Name value="domicilio"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="domicilio"/>
+						</o4>
+						<o5>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="6"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="ciudad_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ciudad_id"/>
+						</o5>
+						<o6>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="7"/>
+								<Indexed value="0"/>
+								<Length value="50"/>
+								<Name value="email"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="email"/>
+						</o6>
+						<o7>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="8"/>
+								<Indexed value="0"/>
+								<Length value="15"/>
+								<Name value="telefono_movil"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Char"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="telefono_movil"/>
+						</o7>
+						<o8>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="9"/>
+								<Indexed value="0"/>
+								<Length value="-1"/>
+								<Name value="alta_contrato_laboral"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Date"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="alta_contrato_laboral"/>
+						</o8>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="ciudad_id"/>
+								<Name value="fk_empleado_ciudad1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_empleado_ciudad1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="sucursal_numero"/>
+								<Name value="fk_empleado_sucursal1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_empleado_sucursal1_idx"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="legajo"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o2>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="51"/>
+						<Average_Row_Size value="327"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="9"/>
+						<Index_Count value="3"/>
+						<Link_Count value="3"/>
+						<Name value="empleado"/>
+						<Primary_Key value="legajo"/>
+						<Record_Count value="50"/>
+						<Size value="49152"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="legajo"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table7"/>
+					<delete value="0"/>
+					<name value="empleado"/>
+				</o6>
+				<o7>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="cliente_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cliente_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="cuenta_numero"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cuenta_numero"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Length value="-1"/>
+								<Name value="acceso"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="DateTime"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="acceso"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cliente_id"/>
+								<Name value="fk_cliente_has_cuenta_cliente2_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cliente_has_cuenta_cliente2_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="cuenta_numero"/>
+								<Name value="fk_cliente_has_cuenta_cuenta2_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_cliente_has_cuenta_cuenta2_idx"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o2>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="237"/>
+						<Average_Row_Size value="69"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="4"/>
+						<Index_Count value="3"/>
+						<Link_Count value="2"/>
+						<Name value="historial_acceso"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="236"/>
+						<Size value="49152"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table8"/>
+					<delete value="0"/>
+					<name value="historial_acceso"/>
+				</o7>
+				<o8>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="prestamo_id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="prestamo_id"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_0900_ai_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Length value="2"/>
+								<Name value="cuota_nro"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Char"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="cuota_nro"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Length value="-1"/>
+								<Name value="fecha"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="DateTime"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fecha"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="5"/>
+								<Indexed value="0"/>
+								<Length value="0"/>
+								<Name value="importe"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Precision value="15"/>
+								<Scale value="2"/>
+								<Type value="Float"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="importe"/>
+						</o4>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="prestamo_id"/>
+								<Name value="fk_pago_prestamo1_idx"/>
+								<Type value="BTREE"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="fk_pago_prestamo1_idx"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="110"/>
+						<Average_Row_Size value="156"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_0900_ai_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="5"/>
+						<Index_Count value="2"/>
+						<Link_Count value="1"/>
+						<Name value="pago"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="105"/>
+						<Size value="32768"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table9"/>
+					<delete value="0"/>
+					<name value="pago"/>
+				</o8>
+				<o9>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Charset value=""/>
+								<Collation value=""/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Length value="0"/>
+								<Name value="id"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="Int"/>
+								<Unique value="1"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Charset value="utf8mb4"/>
+								<Collation value="utf8mb4_general_ci"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Length value="50"/>
+								<Name value="nombre"/>
+								<Nullable value="0"/>
+								<On_Update_Set_Current value="0"/>
+								<Type value="VarChar"/>
+								<Unique value="0"/>
+								<Unsigned value="0"/>
+								<Zerofill value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="nombre"/>
+						</o1>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Comment value=""/>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+								<Type value="BTREE"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Autoincrement value="21"/>
+						<Average_Row_Size value="819"/>
+						<Charset value="utf8mb4"/>
+						<Collation value="utf8mb4_general_ci"/>
+						<Comment value=""/>
+						<Create_Time value="2023-11-06 21:26:34"/>
+						<Engine value="InnoDB"/>
+						<Field_Count value="2"/>
+						<Index_Count value="1"/>
+						<Link_Count value="1"/>
+						<Name value="pais"/>
+						<Primary_Key value="id"/>
+						<Record_Count value="20"/>
+						<Size value="16384"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="1"/>
+						<Update_Time value="2023-11-06 21:26:34"/>
+					</Properties>
+					<Uniques>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="id"/>
+								<Name value="PRIMARY"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PRIMARY"/>
+						</o0>
+					</Uniques>
+					<control value="Table10"/>
+					<delete value="0"/>
+					<name value="pais"/>
+				</o9>
+			</Tables>
+		</el_descubierto>
+	</Model>
+	<Scene>
+		<HeightPX value="2376"/>
+		<MarginBottom value="0"/>
+		<MarginLeft value="0"/>
+		<MarginRight value="0"/>
+		<MarginTop value="0"/>
+		<PageHeight value="2376"/>
+		<PageWidth value="1680"/>
+		<PagesH value="1"/>
+		<PagesV value="1"/>
+		<WidthPX value="1680"/>
+	</Scene>
+	<version value="130500"/>
+</properties>
+
